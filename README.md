@@ -4,9 +4,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dharanip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharanip" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dharani-p-57327b259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharanip" height="30" width="40" /></a>
 <a href="https://instagram.com/d_p12.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_p12.7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dharani p ucs22028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharani p ucs22028" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dhar22028_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharani p ucs22028" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dharanipon9o9x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dharanipon9o9x" height="30" width="40" /></a>
 </p>
 
