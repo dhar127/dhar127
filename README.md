@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhar127&show_icons=true&locale=en" alt="dhar127" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhar127&" alt="dhar127" /></p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/dharani_1207?theme=light&font=Fauna%20One&ext=heatmap)
+[![Dharani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhar127&bg_color=121212&color=f5eff5&line=dae90c&point=f1e9e9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
