@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharani</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A 2nd year Computer Science Undergraduate passionate about full stack development</h3>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhar127&label=Profile%20views&color=0e75b6&style=flat" alt="dhar127" /> </p>
 
