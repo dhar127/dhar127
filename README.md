@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhar127&show_icons=true&locale=en&layout=compact" alt="dhar127" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhar127&show_icons=true&locale=en" alt="dhar127" /></p>
+
 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/dharani_1207?theme=dark&font=Fauna%20One&ext=heatmap)](https://leetcode.com/dharani_1207/)
