@@ -13,10 +13,25 @@
 <h3 align="center">
   <a href="https://skillicons.dev">
     <div>
-      <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,html,css,python&theme=light" />
+      <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,html,css,python,postman&theme=light" />
     </div>
     <div>
-      <img src="https://skillicons.dev/icons?i=kubernetes,docker,react,angular,figma&theme=light" />
+      <img src="https://skillicons.dev/icons?i=kubernetes,docker,react,angular,figma,spring&theme=light" />
+    </div>
+     <div>
+      <img src="https://skillicons.dev/icons?i=c,cpp,mogodb,vscode,mysql&theme=light" />
+    </div>
+    <div>
+      <img src="https://skillicons.dev/icons?i=django,gcp,anaconda,idea&theme=light" />
+    </div>
+    <div>
+      <img src="https://skillicons.dev/icons?i=hibernate,androidstudio,bootstrap&theme=light" />
+    </div>
+    <div>
+      <img src="https://skillicons.dev/icons?i=eclipse,tailwind&theme=light" />
+    </div>
+     <div>
+      <img src="https://skillicons.dev/icons?i=js&theme=light" />
     </div>
   </a>
 </h3>
