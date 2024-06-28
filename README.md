@@ -11,9 +11,9 @@
   <a href="https://auth.geeksforgeeks.org/user/dharanipon9o9x" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dharanipon9o9x" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">
+<h3 align="center">I have worked with<br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,html,css,python,kubernetes,docker,react,angular,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,html,css,python,kubernetes,docker,react,angular,figma,intellij&theme=light" />
   </a>
 </h3>
 
