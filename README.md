@@ -14,7 +14,7 @@
 <h3 align="center">I have worked with:<br><br>
   <a href="https://skillicons.dev">
     <div>
-      <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,html,css,python&theme=light" />
+      <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,html,css,python&theme=dark" />
     </div>
     <div>
       <img src="https://skillicons.dev/icons?i=kubernetes,docker,react,angular,figma&theme=light" />
