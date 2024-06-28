@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center">
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,html,css,java,python,kubernetes,docker,reactjs,angularjsfigma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,html,css,java,python,kubernetes,docker,reactjs,angularjs,figma&theme=light)](https://skillicons.dev)
 </h3>
 [![LeetCode Stats](https://leetcard.jacoblin.cool/dharani_1207?theme=dark&font=Fauna%20One&ext=heatmap)](https://leetcode.com/dharani_1207/)
 [![Dharani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhar127&bg_color=121212&color=f5eff5&line=dae90c&point=f1e9e9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
