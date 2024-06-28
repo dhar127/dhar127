@@ -19,7 +19,7 @@
       <img src="https://skillicons.dev/icons?i=kubernetes,docker,react,angular,figma,spring&theme=light" />
     </div>
      <div>
-      <img src="https://skillicons.dev/icons?i=c,cpp,mogodb,vscode,mysql&theme=light" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,mongodb,vscode,mysql&theme=light" />
     </div>
     <div>
       <img src="https://skillicons.dev/icons?i=django,gcp,anaconda,idea&theme=light" />
