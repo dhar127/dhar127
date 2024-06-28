@@ -9,7 +9,7 @@
   <a href="https://www.hackerrank.com/dhar22028_cs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharani p ucs22028" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/dharanipon9o9x" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dharanipon9o9x" height="30" width="40" /></a>
 </p>
-<h3 align="center">I have worked with:<br><br></h3>
+<h3 align="center">I have worked with:<br></h3>
 <h3 align="center">
   <a href="https://skillicons.dev">
     <div>
