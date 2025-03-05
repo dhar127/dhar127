@@ -37,12 +37,6 @@
 </h3>
 
 <div align="center">
-  <a href="https://leetcode.com/dharani_1207/">
-    <img src="https://leetcard.jacoblin.cool/dharani_1207?theme=dark&font=Fauna%20One&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhar127&bg_color=121212&color=f5eff5&line=dae90c&point=f1e9e9&area=true&hide_border=true" alt="Dharani's github activity graph" />
   </a>
