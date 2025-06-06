@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharani</h1>
-<h3 align="center">RMKEC'26 (CSE)<br>Striving Full Stack Developer and Machine Learning Scholar</h3>
+<h3 align="center">RMKEC'26 (CSE)<br>Striving Full Stack Developer </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhar127&label=Profile%20views&color=0e75b6&style=flat" alt="dhar127" /> </p>
 
 <h3 align="center">Connect with me:</h3>
